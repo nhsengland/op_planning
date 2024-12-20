@@ -1,0 +1,118 @@
+dimension_name,dim_sequence,dim_type,period_grouping,period_sequence,fin_year,period_end_month,end_month_sequence
+Apr-24,202501,Month,Apr,1,2024/25,Apr,1
+May-24,202502,Month,May,2,2024/25,May,2
+Jun-24,202503,Month,Jun,3,2024/25,Jun,3
+Jul-24,202504,Month,Jul,4,2024/25,Jul,4
+Aug-24,202505,Month,Aug,5,2024/25,Aug,5
+Sep-24,202506,Month,Sep,6,2024/25,Sep,6
+Oct-24,202507,Month,Oct,7,2024/25,Oct,7
+Nov-24,202508,Month,Nov,8,2024/25,Nov,8
+Dec-24,202509,Month,Dec,9,2024/25,Dec,9
+Jan-25,202510,Month,Jan,10,2024/25,Jan,10
+Feb-25,202511,Month,Feb,11,2024/25,Feb,11
+Mar-25,202512,Month,Mar,12,2024/25,Mar,12
+2023/24 FOT final,500202402,FOT,FOT Final,500202402,2023/24,FOT Final,14
+Quarter 1 2024/25,320251,Quarter,Quarter 1,13,2024/25,Jun,3
+Quarter 2 2024/25,320252,Quarter,Quarter 2,14,2024/25,Sep,6
+Quarter 3 2024/25,320253,Quarter,Quarter 3,15,2024/25,Dec,9
+Quarter 4 2024/25,320254,Quarter,Quarter 4,16,2024/25,Mar,12
+Apr 2024 - Apr 2024,424042401,Aggregate,Apr 2024 - Apr 2024,424042401,2024/25,Apr,1
+Apr 2024 - May 2024,424042402,Aggregate,Apr 2024 - May 2024,424042402,2024/25,May,2
+Apr 2024 - Jun 2024,424042403,Aggregate,Apr 2024 - Jun 2024,424042403,2024/25,Jun,3
+Apr 2024 - Jul 2024,424042404,Aggregate,Apr 2024 - Jul 2024,424042404,2024/25,Jul,4
+Apr 2024 - Aug 2024,424042405,Aggregate,Apr 2024 - Aug 2024,424042405,2024/25,Aug,5
+Apr 2024 - Sep 2024,424042406,Aggregate,Apr 2024 - Sep 2024,424042406,2024/25,Sep,6
+Apr 2024 - Oct 2024,424042407,Aggregate,Apr 2024 - Oct 2024,424042407,2024/25,Oct,7
+Apr 2024 - Nov 2024,424042408,Aggregate,Apr 2024 - Nov 2024,424042408,2024/25,Nov,8
+Apr 2024 - Dec 2024,424042409,Aggregate,Apr 2024 - Dec 2024,424042409,2024/25,Dec,9
+Apr 2024 - Jan 2025,424042510,Aggregate,Apr 2024 - Jan 2025,424042510,2024/25,Jan,10
+Apr 2024 - Feb 2025,424042511,Aggregate,Apr 2024 - Feb 2025,424042511,2024/25,Feb,11
+Apr 2024 - Mar 2025,424042512,Aggregate,Apr 2024 - Mar 2025,424042512,2024/25,Mar,12
+Apr-19,202001,Month,Apr,1,2019/20,Apr,1
+May-19,202002,Month,May,2,2019/20,May,2
+Jun-19,202003,Month,Jun,3,2019/20,Jun,3
+Jul-19,202004,Month,Jul,4,2019/20,Jul,4
+Aug-19,202005,Month,Aug,5,2019/20,Aug,5
+Sep-19,202006,Month,Sep,6,2019/20,Sep,6
+Oct-19,202007,Month,Oct,7,2019/20,Oct,7
+Nov-19,202008,Month,Nov,8,2019/20,Nov,8
+Dec-19,202009,Month,Dec,9,2019/20,Dec,9
+Jan-20,202010,Month,Jan,10,2019/20,Jan,10
+Feb-20,202011,Month,Feb,11,2019/20,Feb,11
+Mar-20,202012,Month,Mar,12,2019/20,Mar,12
+Apr-20,202101,Month,Apr,1,2020/21,Apr,1
+May-20,202102,Month,May,2,2020/21,May,2
+Jun-20,202103,Month,Jun,3,2020/21,Jun,3
+Jul-20,202104,Month,Jul,4,2020/21,Jul,4
+Aug-20,202105,Month,Aug,5,2020/21,Aug,5
+Sep-20,202106,Month,Sep,6,2020/21,Sep,6
+Oct-20,202107,Month,Oct,7,2020/21,Oct,7
+Nov-20,202108,Month,Nov,8,2020/21,Nov,8
+Dec-20,202109,Month,Dec,9,2020/21,Dec,9
+Jan-21,202110,Month,Jan,10,2020/21,Jan,10
+Feb-21,202111,Month,Feb,11,2020/21,Feb,11
+Mar-21,202112,Month,Mar,12,2020/21,Mar,12
+Apr-21,202201,Month,Apr,1,2021/22,Apr,1
+May-21,202202,Month,May,2,2021/22,May,2
+Jun-21,202203,Month,Jun,3,2021/22,Jun,3
+Jul-21,202204,Month,Jul,4,2021/22,Jul,4
+Aug-21,202205,Month,Aug,5,2021/22,Aug,5
+Sep-21,202206,Month,Sep,6,2021/22,Sep,6
+Oct-21,202207,Month,Oct,7,2021/22,Oct,7
+Nov-21,202208,Month,Nov,8,2021/22,Nov,8
+Dec-21,202209,Month,Dec,9,2021/22,Dec,9
+Jan-22,202210,Month,Jan,10,2021/22,Jan,10
+Feb-22,202211,Month,Feb,11,2021/22,Feb,11
+Mar-22,202212,Month,Mar,12,2021/22,Mar,12
+Apr-22,202301,Month,Apr,1,2022/23,Apr,1
+May-22,202302,Month,May,2,2022/23,May,2
+Jun-22,202303,Month,Jun,3,2022/23,Jun,3
+Jul-22,202304,Month,Jul,4,2022/23,Jul,4
+Aug-22,202305,Month,Aug,5,2022/23,Aug,5
+Sep-22,202306,Month,Sep,6,2022/23,Sep,6
+Oct-22,202307,Month,Oct,7,2022/23,Oct,7
+Nov-22,202308,Month,Nov,8,2022/23,Nov,8
+Dec-22,202309,Month,Dec,9,2022/23,Dec,9
+Jan-23,202310,Month,Jan,10,2022/23,Jan,10
+Feb-23,202311,Month,Feb,11,2022/23,Feb,11
+Mar-23,202312,Month,Mar,12,2022/23,Mar,12
+Apr-23,202401,Month,Apr,1,2023/24,Apr,1
+May-23,202402,Month,May,2,2023/24,May,2
+Jun-23,202403,Month,Jun,3,2023/24,Jun,3
+Jul-23,202404,Month,Jul,4,2023/24,Jul,4
+Aug-23,202405,Month,Aug,5,2023/24,Aug,5
+Sep-23,202406,Month,Sep,6,2023/24,Sep,6
+Oct-23,202407,Month,Oct,7,2023/24,Oct,7
+Nov-23,202408,Month,Nov,8,2023/24,Nov,8
+Dec-23,202409,Month,Dec,9,2023/24,Dec,9
+Jan-24,202410,Month,Jan,10,2023/24,Jan,10
+Feb-24,202411,Month,Feb,11,2023/24,Feb,11
+Mar-24,202412,Month,Mar,12,2023/24,Mar,12
+2023/24 FOT estimate,500202401,FOT,FOT Estimate,500202401,2023/24,FOT Estimate,13
+Apr 2019 - Mar 2020,419042012,Aggregate,Apr 2019 - Mar 2020,419042012,2019/20,Mar,12
+Apr 2023 - Aug 2023,423042305,Aggregate,Apr 2023 - Aug 2023,423042305,2023/24,Aug,5
+Apr 2023 - Sep 2023,423042306,Aggregate,Apr 2023 - Sep 2023,423042306,2023/24,Sep,6
+Apr 2023 - Oct 2023,423042307,Aggregate,Apr 2023 - Oct 2023,423042307,2023/24,Oct,7
+Apr 2023 - Nov 2023,423042308,Aggregate,Apr 2023 - Nov 2023,423042308,2023/24,Nov,8
+Apr 2023 - Dec 2023,423042309,Aggregate,Apr 2023 - Dec 2023,423042309,2023/24,Dec,9
+Apr 2023 - Jan 2024,423042410,Aggregate,Apr 2023 - Jan 2024,423042410,2023/24,Jan,10
+Apr 2023 - Feb 2024,423042411,Aggregate,Apr 2023 - Feb 2024,423042411,2023/24,Feb,11
+Apr 2023 - Mar 2024,423042412,Aggregate,Apr 2023 - Mar 2024,423042412,2023/24,Mar,12
+Quarter 1 2022/23,320231,Quarter,Quarter 1,13,2022/23,Jun,3
+Quarter 2 2022/23,320232,Quarter,Quarter 2,14,2022/23,Sep,6
+Quarter 3 2022/23,320233,Quarter,Quarter 3,15,2022/23,Dec,9
+Quarter 4 2022/23,320234,Quarter,Quarter 4,16,2022/23,Mar,12
+Quarter 1 2023/24,320241,Quarter,Quarter 1,13,2023/24,Jun,3
+Quarter 2 2023/24,320242,Quarter,Quarter 2,14,2023/24,Sep,6
+Quarter 3 2023/24,320243,Quarter,Quarter 3,15,2023/24,Dec,9
+Quarter 4 2023/24,320244,Quarter,Quarter 4,16,2023/24,Mar,12
+Quarter 3 2019/20,320203,Quarter,Quarter 3,15,2019/20,Dec,9
+Quarter 4 2019/20,320204,Quarter,Quarter 4,16,2019/20,Mar,12
+Quarter 1 2020/21,320211,Quarter,Quarter 1,13,2020/21,Jun,3
+Quarter 2 2020/21,320212,Quarter,Quarter 2,14,2020/21,Sep,6
+Quarter 3 2020/21,320213,Quarter,Quarter 3,15,2020/21,Dec,9
+Quarter 4 2020/21,320214,Quarter,Quarter 4,16,2020/21,Mar,12
+Quarter 1 2021/22,320221,Quarter,Quarter 1,13,2021/22,Jun,3
+Quarter 2 2021/22,320222,Quarter,Quarter 2,14,2021/22,Sep,6
+Quarter 3 2021/22,320223,Quarter,Quarter 3,15,2021/22,Dec,9
+Quarter 4 2021/22,320224,Quarter,Quarter 4,16,2021/22,Mar,12

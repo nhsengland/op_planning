@@ -1,0 +1,325 @@
+ref_key,key_date,key_date_flag,dimension_name,dim_type,period_grouping,period_sequence,fin_year,period_end_month,end_month_sequence,planning_ref,measure_type,key_1
+E.M.13Numerator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13,Numerator,E.M.13NumeratorMar-24
+E.M.13Denominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13,Denominator,E.M.13DenominatorMar-24
+E.M.13Percentage,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13,Percentage,E.M.13PercentageMar-24
+E.M.13aNumerator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13a,Numerator,E.M.13aNumeratorMar-24
+E.M.13aDenominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13a,Denominator,E.M.13aDenominatorMar-24
+E.M.13aPercentage,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13a,Percentage,E.M.13aPercentageMar-24
+E.M.13bNumerator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13b,Numerator,E.M.13bNumeratorMar-24
+E.M.13bDenominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13b,Denominator,E.M.13bDenominatorMar-24
+E.M.13bPercentage,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.13b,Percentage,E.M.13bPercentageMar-24
+E.M.15Count,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.15,Count,E.M.15CountMar-24
+E.B.23cCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.23c,Count,E.B.23cCountFeb-24
+E.B.23cMean,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.23c,Mean,E.B.23cMeanFeb-24
+E.M.10aCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.10a,Count,E.M.10aCountFeb-24
+E.M.10bCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.10b,Count,E.M.10bCountFeb-24
+E.M.11aCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.11a,Count,E.M.11aCountFeb-24
+E.M.11bCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.11b,Count,E.M.11bCountFeb-24
+E.M.10Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.10,Count,E.M.10CountFeb-24
+E.M.11Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.11,Count,E.M.11CountFeb-24
+E.M.10cCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.10c,Count,E.M.10cCountFeb-24
+E.M.10dCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.10d,Count,E.M.10dCountFeb-24
+E.M.26bNumerator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.26b,Numerator,E.M.26bNumeratorMar-24
+E.M.26bDenominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.26b,Denominator,E.M.26bDenominatorMar-24
+E.M.26bPercentage,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.26b,Percentage,E.M.26bPercentageMar-24
+E.M.26cCount,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.M.26c,Count,E.M.26cCountDec-23
+E.M.30Numerator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30,Numerator,E.M.30NumeratorMar-24
+E.M.30Denominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30,Denominator,E.M.30DenominatorMar-24
+E.M.30Percentage,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30,Percentage,E.M.30PercentageMar-24
+E.M.29Denominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.29,Denominator,E.M.29DenominatorMar-24
+E.M.29Numerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.29,Numerator,E.M.29NumeratorFeb-24
+E.M.29Percentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.29,Percentage,E.M.29PercentageFeb-24
+E.M.30aNumerator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30a,Numerator,E.M.30aNumeratorMar-24
+E.M.30bNumerator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30b,Numerator,E.M.30bNumeratorMar-24
+E.M.30gDenominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30g,Denominator,E.M.30gDenominatorMar-24
+E.M.30iDenominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30i,Denominator,E.M.30iDenominatorMar-24
+E.M.30hDenominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30h,Denominator,E.M.30hDenominatorMar-24
+E.M.30jDenominator,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.30j,Denominator,E.M.30jDenominatorMar-24
+E.B.27Numerator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.B.27,Numerator,E.B.27NumeratorQuarter 3 2023/24
+E.B.27Denominator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.B.27,Denominator,E.B.27DenominatorQuarter 3 2023/24
+E.B.27Percentage,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.B.27,Percentage,E.B.27PercentageQuarter 3 2023/24
+E.B.34Numerator,202405,Latest Actual,Aug-23,Month,Aug,5,2023/24,Aug,5,E.B.34,Numerator,E.B.34NumeratorAug-23
+E.B.34Denominator,202405,Latest Actual,Aug-23,Month,Aug,5,2023/24,Aug,5,E.B.34,Denominator,E.B.34DenominatorAug-23
+E.B.34Percentage,202405,Latest Actual,Aug-23,Month,Aug,5,2023/24,Aug,5,E.B.34,Percentage,E.B.34PercentageAug-23
+E.B.35Numerator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.B.35,Numerator,E.B.35NumeratorQuarter 3 2023/24
+E.B.35Denominator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.B.35,Denominator,E.B.35DenominatorQuarter 3 2023/24
+E.B.35Percentage,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.B.35,Percentage,E.B.35PercentageQuarter 3 2023/24
+E.B.33Count,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.B.33,Count,E.B.33CountQuarter 3 2023/24
+E.D.22Numerator,320244,Latest Actual,Quarter 4 2023/24,Quarter,Quarter 4,16,2023/24,Mar,12,E.D.22,Numerator,E.D.22NumeratorQuarter 4 2023/24
+E.D.22Denominator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.D.22,Denominator,E.D.22DenominatorQuarter 3 2023/24
+E.D.22Percentage,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.D.22,Percentage,E.D.22PercentageQuarter 3 2023/24
+E.D.23Numerator,320244,Latest Actual,Quarter 4 2023/24,Quarter,Quarter 4,16,2023/24,Mar,12,E.D.23,Numerator,E.D.23NumeratorQuarter 4 2023/24
+E.D.23Denominator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.D.23,Denominator,E.D.23DenominatorQuarter 3 2023/24
+E.D.23Percentage,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.D.23,Percentage,E.D.23PercentageQuarter 3 2023/24
+E.D.24Numerator,320244,Latest Actual,Quarter 4 2023/24,Quarter,Quarter 4,16,2023/24,Mar,12,E.D.24,Numerator,E.D.24NumeratorQuarter 4 2023/24
+E.D.24Denominator,320244,Latest Actual,Quarter 4 2023/24,Quarter,Quarter 4,16,2023/24,Mar,12,E.D.24,Denominator,E.D.24DenominatorQuarter 4 2023/24
+E.D.24Percentage,320244,Latest Actual,Quarter 4 2023/24,Quarter,Quarter 4,16,2023/24,Mar,12,E.D.24,Percentage,E.D.24PercentageQuarter 4 2023/24
+E.B.26aCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26a,Count,E.B.26aCountFeb-24
+E.B.26bCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26b,Count,E.B.26bCountFeb-24
+E.B.26cCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26c,Count,E.B.26cCountFeb-24
+E.B.26dCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26d,Count,E.B.26dCountFeb-24
+E.B.26eCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26e,Count,E.B.26eCountFeb-24
+E.B.26fCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26f,Count,E.B.26fCountFeb-24
+E.B.26gCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26g,Count,E.B.26gCountFeb-24
+E.B.26hCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26h,Count,E.B.26hCountFeb-24
+E.B.26kCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26k,Count,E.B.26kCountFeb-24
+E.B.28aNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28a,Numerator,E.B.28aNumeratorFeb-24
+E.B.28aDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28a,Denominator,E.B.28aDenominatorFeb-24
+E.B.28aPercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28a,Percentage,E.B.28aPercentageFeb-24
+E.B.28bNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28b,Numerator,E.B.28bNumeratorFeb-24
+E.B.28bDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28b,Denominator,E.B.28bDenominatorFeb-24
+E.B.28bPercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28b,Percentage,E.B.28bPercentageFeb-24
+E.B.28cNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28c,Numerator,E.B.28cNumeratorFeb-24
+E.B.28cDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28c,Denominator,E.B.28cDenominatorFeb-24
+E.B.28cPercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28c,Percentage,E.B.28cPercentageFeb-24
+E.B.28dNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28d,Numerator,E.B.28dNumeratorFeb-24
+E.B.28dDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28d,Denominator,E.B.28dDenominatorFeb-24
+E.B.28dPercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28d,Percentage,E.B.28dPercentageFeb-24
+E.B.28eNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28e,Numerator,E.B.28eNumeratorFeb-24
+E.B.28eDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28e,Denominator,E.B.28eDenominatorFeb-24
+E.B.28ePercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28e,Percentage,E.B.28ePercentageFeb-24
+E.B.28fNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28f,Numerator,E.B.28fNumeratorFeb-24
+E.B.28fDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28f,Denominator,E.B.28fDenominatorFeb-24
+E.B.28fPercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28f,Percentage,E.B.28fPercentageFeb-24
+E.B.28gNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28g,Numerator,E.B.28gNumeratorFeb-24
+E.B.28gDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28g,Denominator,E.B.28gDenominatorFeb-24
+E.B.28gPercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28g,Percentage,E.B.28gPercentageFeb-24
+E.B.28hNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28h,Numerator,E.B.28hNumeratorFeb-24
+E.B.28hDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28h,Denominator,E.B.28hDenominatorFeb-24
+E.B.28hPercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28h,Percentage,E.B.28hPercentageFeb-24
+E.B.28kNumerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28k,Numerator,E.B.28kNumeratorFeb-24
+E.B.28kDenominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28k,Denominator,E.B.28kDenominatorFeb-24
+E.B.28kPercentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28k,Percentage,E.B.28kPercentageFeb-24
+E.T.3Count,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.T.3,Count,E.T.3CountMar-24
+E.T.3aCount,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.T.3a,Count,E.T.3aCountMar-24
+E.T.3bCount,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.T.3b,Count,E.T.3bCountMar-24
+E.T.3cCount,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.T.3c,Count,E.T.3cCountMar-24
+E.T.3dCount,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.T.3d,Count,E.T.3dCountMar-24
+E.A.4aNumerator,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.A.4a,Numerator,E.A.4aNumeratorDec-23
+E.A.4aDenominator,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.A.4a,Denominator,E.A.4aDenominatorDec-23
+E.A.4aPercentage,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.A.4a,Percentage,E.A.4aPercentageDec-23
+E.A.4bNumerator,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.A.4b,Numerator,E.A.4bNumeratorDec-23
+E.A.4bDenominator,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.A.4b,Denominator,E.A.4bDenominatorDec-23
+E.A.4bPercentage,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.A.4b,Percentage,E.A.4bPercentageDec-23
+E.H.15Count,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.H.15,Count,E.H.15CountDec-23
+E.H.9Count,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.H.9,Count,E.H.9CountDec-23
+E.H.31Count,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.H.31,Count,E.H.31CountDec-23
+E.H.13Numerator,202406,Latest Actual,Sep-23,Month,Sep,6,2023/24,Sep,6,E.H.13,Numerator,E.H.13NumeratorSep-23
+E.H.13Denominator,202406,Latest Actual,Sep-23,Month,Sep,6,2023/24,Sep,6,E.H.13,Denominator,E.H.13DenominatorSep-23
+E.H.13Percentage,202406,Latest Actual,Sep-23,Month,Sep,6,2023/24,Sep,6,E.H.13,Percentage,E.H.13PercentageSep-23
+E.A.S.1Numerator,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.A.S.1,Numerator,E.A.S.1NumeratorJan-24
+E.A.S.1Denominator,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.A.S.1,Denominator,E.A.S.1DenominatorJan-24
+E.A.S.1Percentage,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.A.S.1,Percentage,E.A.S.1PercentageJan-24
+E.A.5Count,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.A.5,Count,E.A.5CountDec-23
+E.K.1Numerator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.1,Numerator,E.K.1NumeratorQuarter 3 2023/24
+E.K.1Denominator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.1,Denominator,E.K.1DenominatorQuarter 3 2023/24
+E.K.1Rate,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.1,Rate,E.K.1RateQuarter 3 2023/24
+E.K.1cNumerator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.1c,Numerator,E.K.1cNumeratorQuarter 3 2023/24
+E.K.1cDenominator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.1c,Denominator,E.K.1cDenominatorQuarter 3 2023/24
+E.K.1cRate,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.1c,Rate,E.K.1cRateQuarter 3 2023/24
+E.K.3Numerator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.3,Numerator,E.K.3NumeratorQuarter 3 2023/24
+E.K.3Denominator,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.3,Denominator,E.K.3DenominatorQuarter 3 2023/24
+E.K.3Percentage,320243,Latest Actual,Quarter 3 2023/24,Quarter,Quarter 3,15,2023/24,Dec,9,E.K.3,Percentage,E.K.3PercentageQuarter 3 2023/24
+E.M.25Count,202412,Latest Actual,Mar-24,Month,Mar,12,2023/24,Mar,12,E.M.25,Count,E.M.25CountMar-24
+E.M.8Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.8,Count,E.M.8CountFeb-24
+E.M.9Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.9,Count,E.M.9CountFeb-24
+E.M.32Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.32,Count,E.M.32CountFeb-24
+E.M.38Numerator,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.M.38,Numerator,E.M.38NumeratorDec-23
+E.M.38Denominator,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.M.38,Denominator,E.M.38DenominatorDec-23
+E.M.38Count,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.M.38,Count,E.M.38CountDec-23
+E.M.38Percentage,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.M.38,Percentage,E.M.38PercentageDec-23
+E.M.40Count,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.M.40,Count,E.M.40CountDec-23
+E.M.41Count,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.M.41,Count,E.M.41CountDec-23
+E.M.34Numerator,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.M.34,Numerator,E.M.34NumeratorJan-24
+E.M.34Denominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.34,Denominator,E.M.34DenominatorFeb-24
+E.M.34Count,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.M.34,Count,E.M.34CountJan-24
+E.M.34Percentage,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.M.34,Percentage,E.M.34PercentageJan-24
+E.D.19Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.D.19,Count,E.D.19CountFeb-24
+E.D.21Numerator,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.D.21,Numerator,E.D.21NumeratorJan-24
+E.D.21Denominator,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.D.21,Denominator,E.D.21DenominatorJan-24
+E.D.21Percentage,202410,Latest Actual,Jan-24,Month,Jan,10,2023/24,Jan,10,E.D.21,Percentage,E.D.21PercentageJan-24
+E.B.3aCount,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.3a,Count,E.B.3aCountFeb-24
+E.M.18Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.18,Count,E.M.18CountFeb-24
+E.M.19Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.19,Count,E.M.19CountFeb-24
+E.M.20Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.M.20,Count,E.M.20CountFeb-24
+E.B.18Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.18,Count,E.B.18CountFeb-24
+E.B.20Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.20,Count,E.B.20CountFeb-24
+E.B.24Count,202409,Latest Actual,Dec-23,Month,Dec,9,2023/24,Dec,9,E.B.24,Count,E.B.24CountDec-23
+E.T.8Count,320244,Latest Actual,Quarter 4 2023/24,Quarter,Quarter 4,16,2023/24,Mar,12,E.T.8,Count,E.T.8CountQuarter 4 2023/24
+E.T.9aCount,320244,Latest Actual,Quarter 4 2023/24,Quarter,Quarter 4,16,2023/24,Mar,12,E.T.9a,Count,E.T.9aCountQuarter 4 2023/24
+E.T.9bCount,320244,Latest Actual,Quarter 4 2023/24,Quarter,Quarter 4,16,2023/24,Mar,12,E.T.9b,Count,E.T.9bCountQuarter 4 2023/24
+E.T.5Numerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.T.5,Numerator,E.T.5NumeratorFeb-24
+E.T.5Denominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.T.5,Denominator,E.T.5DenominatorFeb-24
+E.T.5Percentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.T.5,Percentage,E.T.5PercentageFeb-24
+E.B.26Count,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.26,Count,E.B.26CountFeb-24
+E.B.28Numerator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28,Numerator,E.B.28NumeratorFeb-24
+E.B.28Denominator,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28,Denominator,E.B.28DenominatorFeb-24
+E.B.28Percentage,202411,Latest Actual,Feb-24,Month,Feb,11,2023/24,Feb,11,E.B.28,Percentage,E.B.28PercentageFeb-24
+E.M.32Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.32,Count,E.M.32CountMar-25
+E.M.34Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.34,Count,E.M.34CountMar-25
+E.M.34Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.34,Percentage,E.M.34PercentageMar-25
+E.M.34Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.34,Numerator,E.M.34NumeratorMar-25
+E.M.34Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.34,Denominator,E.M.34DenominatorMar-25
+E.M.8Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.8,Count,E.M.8CountMar-25
+E.M.9Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.9,Count,E.M.9CountMar-25
+E.M.40Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.40,Count,E.M.40CountMar-25
+E.M.41Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.41,Count,E.M.41CountMar-25
+E.M.38Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.38,Count,E.M.38CountMar-25
+E.M.38Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.38,Percentage,E.M.38PercentageMar-25
+E.M.38Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.38,Numerator,E.M.38NumeratorMar-25
+E.M.38Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.38,Denominator,E.M.38DenominatorMar-25
+E.M.10Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.10,Count,E.M.10CountMar-25
+E.M.10aCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.10a,Count,E.M.10aCountMar-25
+E.M.10bCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.10b,Count,E.M.10bCountMar-25
+E.M.10cCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.10c,Count,E.M.10cCountMar-25
+E.M.10dCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.10d,Count,E.M.10dCountMar-25
+E.M.13Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13,Percentage,E.M.13PercentageMar-25
+E.M.13Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13,Numerator,E.M.13NumeratorMar-25
+E.M.13Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13,Denominator,E.M.13DenominatorMar-25
+E.M.13aPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13a,Percentage,E.M.13aPercentageMar-25
+E.M.13aNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13a,Numerator,E.M.13aNumeratorMar-25
+E.M.13aDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13a,Denominator,E.M.13aDenominatorMar-25
+E.M.13bPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13b,Percentage,E.M.13bPercentageMar-25
+E.M.13bNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13b,Numerator,E.M.13bNumeratorMar-25
+E.M.13bDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.13b,Denominator,E.M.13bDenominatorMar-25
+E.M.15Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.15,Count,E.M.15CountMar-25
+E.M.11Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.11,Count,E.M.11CountMar-25
+E.M.11aCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.11a,Count,E.M.11aCountMar-25
+E.M.11bCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.11b,Count,E.M.11bCountMar-25
+E.B.18Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.18,Count,E.B.18CountMar-25
+E.B.24Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.24,Count,E.B.24CountMar-25
+E.B.20Count,202506,Plan End,Sep-24,Month,Sep,6,2024/25,Sep,6,E.B.20,Count,E.B.20CountSep-24
+E.B.3aCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.3a,Count,E.B.3aCountMar-25
+E.M.18Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.18,Count,E.M.18CountMar-25
+E.M.19Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.19,Count,E.M.19CountMar-25
+E.M.20Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.20,Count,E.M.20CountMar-25
+E.B.26aCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26a,Count,E.B.26aCountMar-25
+E.B.26bCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26b,Count,E.B.26bCountMar-25
+E.B.26cCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26c,Count,E.B.26cCountMar-25
+E.B.26dCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26d,Count,E.B.26dCountMar-25
+E.B.26eCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26e,Count,E.B.26eCountMar-25
+E.B.26fCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26f,Count,E.B.26fCountMar-25
+E.B.26gCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26g,Count,E.B.26gCountMar-25
+E.B.26hCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26h,Count,E.B.26hCountMar-25
+E.B.26kCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26k,Count,E.B.26kCountMar-25
+E.K.3Percentage,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.3,Percentage,E.K.3PercentageQuarter 4 2024/25
+E.K.3Numerator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.3,Numerator,E.K.3NumeratorQuarter 4 2024/25
+E.K.3Denominator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.3,Denominator,E.K.3DenominatorQuarter 4 2024/25
+E.K.1Numerator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.1,Numerator,E.K.1NumeratorQuarter 4 2024/25
+E.K.1Denominator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.1,Denominator,E.K.1DenominatorQuarter 4 2024/25
+E.K.1Rate,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.1,Rate,E.K.1RateQuarter 4 2024/25
+E.K.1cNumerator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.1c,Numerator,E.K.1cNumeratorQuarter 4 2024/25
+E.K.1cDenominator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.1c,Denominator,E.K.1cDenominatorQuarter 4 2024/25
+E.K.1cRate,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.K.1c,Rate,E.K.1cRateQuarter 4 2024/25
+E.B.33Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.33,Count,E.B.33CountMar-25
+E.B.34Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.34,Percentage,E.B.34PercentageMar-25
+E.B.34Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.34,Numerator,E.B.34NumeratorMar-25
+E.B.34Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.34,Denominator,E.B.34DenominatorMar-25
+E.B.35Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.35,Percentage,E.B.35PercentageMar-25
+E.B.35Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.35,Numerator,E.B.35NumeratorMar-25
+E.B.35Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.35,Denominator,E.B.35DenominatorMar-25
+E.B.27Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.27,Percentage,E.B.27PercentageMar-25
+E.B.27Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.27,Numerator,E.B.27NumeratorMar-25
+E.B.27Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.27,Denominator,E.B.27DenominatorMar-25
+E.D.19Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.D.19,Count,E.D.19CountMar-25
+E.D.21Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.D.21,Percentage,E.D.21PercentageMar-25
+E.D.21Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.D.21,Numerator,E.D.21NumeratorMar-25
+E.D.21Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.D.21,Denominator,E.D.21DenominatorMar-25
+E.T.5Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.5,Percentage,E.T.5PercentageMar-25
+E.T.5Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.5,Numerator,E.T.5NumeratorMar-25
+E.T.5Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.5,Denominator,E.T.5DenominatorMar-25
+E.T.3Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3,Count,E.T.3CountMar-25
+E.T.3aCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3a,Count,E.T.3aCountMar-25
+E.T.3bCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3b,Count,E.T.3bCountMar-25
+E.T.3cCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3c,Count,E.T.3cCountMar-25
+E.T.3c.iCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3c.i,Count,E.T.3c.iCountMar-25
+E.T.3c.iiCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3c.ii,Count,E.T.3c.iiCountMar-25
+E.T.3c.iiiCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3c.iii,Count,E.T.3c.iiiCountMar-25
+E.T.3c.ivCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3c.iv,Count,E.T.3c.ivCountMar-25
+E.T.3dCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.3d,Count,E.T.3dCountMar-25
+E.B.28aPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28a,Percentage,E.B.28aPercentageMar-25
+E.B.28aNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28a,Numerator,E.B.28aNumeratorMar-25
+E.B.28aDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28a,Denominator,E.B.28aDenominatorMar-25
+E.B.28bPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28b,Percentage,E.B.28bPercentageMar-25
+E.B.28bNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28b,Numerator,E.B.28bNumeratorMar-25
+E.B.28bDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28b,Denominator,E.B.28bDenominatorMar-25
+E.B.28cPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28c,Percentage,E.B.28cPercentageMar-25
+E.B.28cNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28c,Numerator,E.B.28cNumeratorMar-25
+E.B.28cDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28c,Denominator,E.B.28cDenominatorMar-25
+E.B.28dPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28d,Percentage,E.B.28dPercentageMar-25
+E.B.28dNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28d,Numerator,E.B.28dNumeratorMar-25
+E.B.28dDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28d,Denominator,E.B.28dDenominatorMar-25
+E.B.28ePercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28e,Percentage,E.B.28ePercentageMar-25
+E.B.28eNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28e,Numerator,E.B.28eNumeratorMar-25
+E.B.28eDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28e,Denominator,E.B.28eDenominatorMar-25
+E.B.28fPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28f,Percentage,E.B.28fPercentageMar-25
+E.B.28fNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28f,Numerator,E.B.28fNumeratorMar-25
+E.B.28fDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28f,Denominator,E.B.28fDenominatorMar-25
+E.B.28gPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28g,Percentage,E.B.28gPercentageMar-25
+E.B.28gNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28g,Numerator,E.B.28gNumeratorMar-25
+E.B.28gDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28g,Denominator,E.B.28gDenominatorMar-25
+E.B.28hPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28h,Percentage,E.B.28hPercentageMar-25
+E.B.28hNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28h,Numerator,E.B.28hNumeratorMar-25
+E.B.28hDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28h,Denominator,E.B.28hDenominatorMar-25
+E.B.28kPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28k,Percentage,E.B.28kPercentageMar-25
+E.B.28kNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28k,Numerator,E.B.28kNumeratorMar-25
+E.B.28kDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28k,Denominator,E.B.28kDenominatorMar-25
+E.T.6Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.6,Percentage,E.T.6PercentageMar-25
+E.T.6Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.6,Numerator,E.T.6NumeratorMar-25
+E.T.6Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.6,Denominator,E.T.6DenominatorMar-25
+E.M.26bPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.26b,Percentage,E.M.26bPercentageMar-25
+E.M.26bNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.26b,Numerator,E.M.26bNumeratorMar-25
+E.M.26bDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.26b,Denominator,E.M.26bDenominatorMar-25
+E.M.26cCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.26c,Count,E.M.26cCountMar-25
+E.M.25Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.25,Count,E.M.25CountMar-25
+E.M.30aNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30a,Numerator,E.M.30aNumeratorMar-25
+E.M.30gDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30g,Denominator,E.M.30gDenominatorMar-25
+E.M.30hDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30h,Denominator,E.M.30hDenominatorMar-25
+E.M.30bNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30b,Numerator,E.M.30bNumeratorMar-25
+E.M.30iDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30i,Denominator,E.M.30iDenominatorMar-25
+E.M.30jDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30j,Denominator,E.M.30jDenominatorMar-25
+E.M.29Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.29,Percentage,E.M.29PercentageMar-25
+E.M.29Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.29,Numerator,E.M.29NumeratorMar-25
+E.M.29Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.29,Denominator,E.M.29DenominatorMar-25
+E.A.5Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.5,Count,E.A.5CountMar-25
+E.A.4aPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.4a,Percentage,E.A.4aPercentageMar-25
+E.A.4aNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.4a,Numerator,E.A.4aNumeratorMar-25
+E.A.4aDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.4a,Denominator,E.A.4aDenominatorMar-25
+E.A.4bPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.4b,Percentage,E.A.4bPercentageMar-25
+E.A.4bNumerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.4b,Numerator,E.A.4bNumeratorMar-25
+E.A.4bDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.4b,Denominator,E.A.4bDenominatorMar-25
+E.A.S.1Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.S.1,Percentage,E.A.S.1PercentageMar-25
+E.A.S.1Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.S.1,Numerator,E.A.S.1NumeratorMar-25
+E.A.S.1Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.A.S.1,Denominator,E.A.S.1DenominatorMar-25
+E.H.13Percentage,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.H.13,Percentage,E.H.13PercentageQuarter 4 2024/25
+E.H.13Numerator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.H.13,Numerator,E.H.13NumeratorQuarter 4 2024/25
+E.H.13Denominator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.H.13,Denominator,E.H.13DenominatorQuarter 4 2024/25
+E.H.31Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.H.31,Count,E.H.31CountMar-25
+E.H.15Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.H.15,Count,E.H.15CountMar-25
+E.H.9Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.H.9,Count,E.H.9CountMar-25
+E.D.22Percentage,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.22,Percentage,E.D.22PercentageQuarter 4 2024/25
+E.D.22Numerator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.22,Numerator,E.D.22NumeratorQuarter 4 2024/25
+E.D.22Denominator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.22,Denominator,E.D.22DenominatorQuarter 4 2024/25
+E.D.23Percentage,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.23,Percentage,E.D.23PercentageQuarter 4 2024/25
+E.D.23Numerator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.23,Numerator,E.D.23NumeratorQuarter 4 2024/25
+E.D.23Denominator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.23,Denominator,E.D.23DenominatorQuarter 4 2024/25
+E.T.8Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.T.8,Count,E.T.8CountMar-25
+E.D.24Percentage,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.24,Percentage,E.D.24PercentageQuarter 4 2024/25
+E.D.24Numerator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.24,Numerator,E.D.24NumeratorQuarter 4 2024/25
+E.D.24Denominator,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.D.24,Denominator,E.D.24DenominatorQuarter 4 2024/25
+E.T.9Count,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.T.9,Count,E.T.9CountQuarter 4 2024/25
+E.T.9aCount,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.T.9a,Count,E.T.9aCountQuarter 4 2024/25
+E.T.9bCount,320254,Plan End,Quarter 4 2024/25,Quarter,Quarter 4,16,2024/25,Mar,12,E.T.9b,Count,E.T.9bCountQuarter 4 2024/25
+E.B.23cCount,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.23c,Count,E.B.23cCountMar-25
+E.B.23cMean,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.23c,Mean,E.B.23cMeanMar-25
+E.M.30Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30,Percentage,E.M.30PercentageMar-25
+E.M.30Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30,Numerator,E.M.30NumeratorMar-25
+E.M.30Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30,Denominator,E.M.30DenominatorMar-25
+E.M.30aDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,NA,NA,NANAMar-25
+E.M.30aPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30a,Percentage,E.M.30aPercentageMar-25
+E.M.30bDenominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,NA,NA,NANAMar-25
+E.M.30bPercentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.M.30b,Percentage,E.M.30bPercentageMar-25
+E.B.26Count,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.26,Count,E.B.26CountMar-25
+E.B.28Numerator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28,Numerator,E.B.28NumeratorMar-25
+E.B.28Denominator,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28,Denominator,E.B.28DenominatorMar-25
+E.B.28Percentage,202512,Plan End,Mar-25,Month,Mar,12,2024/25,Mar,12,E.B.28,Percentage,E.B.28PercentageMar-25
